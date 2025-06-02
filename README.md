@@ -1,4 +1,4 @@
-# 🧬🐍 Curso de Python en Colab para Bioinformática
+# 🧬🐍 Curso: Introducción a Python y aplicaciones para Bioinformática.
 
 ¡Bienvenido/a al repositorio del curso **"Python en Colab para Bioinformática"**! Este curso intensivo de 6 horas está diseñado para introducir conceptos de Python aplicados a problemas bioinformáticos, utilizando Google Colab como entorno de desarrollo.
 
