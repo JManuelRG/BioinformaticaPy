@@ -10,14 +10,13 @@
 El curso está dividido en 5 módulos con notebooks ejecutables en Colab:
 
 1. **Introducción a Python y Colab**  
-   - Sintaxis básica, manejo de secuencias de ADN/proteínas.
+   - Sintaxis básica, tipos de datos
 
-2. **Manipulación de datos biológicos**  
-   - Procesamiento de archivos FASTA/FASTQ, análisis de secuencias.
-
-3. **Librerías esenciales (NumPy, Pandas, Matplotlib)**  
+2. **Librerías esenciales (NumPy, Pandas, Matplotlib)**  
    - Análisis de datos tabulares y visualización.
 
+3. **Manipulación de datos biológicos**  
+   - Procesamiento de archivos FASTA/FASTQ, análisis de secuencias.
 4. **Funciones y pipelines**  
    - Automatización de flujos de trabajo bioinformáticos.
 
